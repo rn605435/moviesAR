@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="glass" size="10.000000 14.725275" />
+    <ImageTarget name="escaperoom" size="10.000000 14.807693" />
+    <ImageTarget name="aquaman" size="10.000000 14.807693" />
+    <ImageTarget name="birdbox" size="10.000000 14.807693" />
+  </Tracking>
+</QCARConfig>
